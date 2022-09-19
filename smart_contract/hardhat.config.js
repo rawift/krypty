@@ -7,7 +7,7 @@ module.exports = {
   networks: {
     Goerli: {
       url: 'bla bla write your own ',
-      accounts: ['4fd878751cc0c30a428f6ab289f8bf52b8a72d4668622784dd15b4e074b77547']
+      accounts: ['wrire your own private key']
     }
   }
 }
